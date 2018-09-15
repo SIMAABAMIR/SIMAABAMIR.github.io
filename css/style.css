@@ -1,0 +1,98 @@
+#twittericon{
+  color:rgb(0,132,180);
+}
+#githubicon{
+  color:rgb(102,43,129);
+}
+#linkedinicon{
+  color:rgb(0,132,180);
+}
+#youtubeicon{
+  color:rgb(187,0,0);
+}
+#facebookicon{
+  color:rgb(59,89,152);
+}
+
+.block{
+  background-color:black;
+  opacity:0.8;
+  padding:2px;
+  width:50%;
+  margin-left:auto;
+  margin-right:auto;
+  border-radius:10px;
+  margin-top:auto;
+}
+.nav-pills{
+  font-family: 'Lobster', cursive;
+font-size:1.7em;
+background-color:black;
+  margin-bottom:5%;
+  
+
+}
+body {
+background-color:white;
+  font-family: 'Lobster', cursive;
+  
+}
+h1{
+  padding:0;
+  font-size:4.5em;
+  margin-top:0px;
+}
+h3{
+  margin-top:-0.5%;
+}
+.btn-default{
+  background-color:black;
+border-color:black;
+color:#337ab7;
+font-size:1.6em;
+}
+.pageone{
+  background:url("https://images.unsplash.com/photo-1444703686981-a3abbc4d4fe3?ixlib=rb-0.3.5&q=85&fm=jpg&crop=entropy&cs=srgb&dl=greg-rakozy-38802.jpg&s=92b0380414f72a87d6fa60e5a218d6db");
+  background-size:cover;
+  padding-bottom:10%;
+  
+}
+.pagetwo{
+    background:url("https://images.unsplash.com/photo-1429081172764-c0ee67ab9afd?ixlib=rb-0.3.5&q=85&fm=jpg&crop=entropy&cs=srgb&dl=adriel-kloppenburg-14828.jpg&s=685f6a750570ba16efa78311d1b640c0");
+  background-size:cover;
+  padding-top:5%;
+  padding-bottom:5%;
+}
+.pagethree{
+  background:url("https://images.unsplash.com/photo-1465311530779-5241f5a29892?ixlib=rb-0.3.5&q=85&fm=jpg&crop=entropy&cs=srgb&dl=kalen-emsley-100238.jpg&s=cc969b28af718777b074d3b2a51a7888");
+  background-size:cover;
+  padding-top:5%;
+  padding-bottom:5%;
+  
+}
+.pagefour{
+  background:url("https://images.unsplash.com/photo-1491378630646-3440efa57c3b?ixlib=rb-0.3.5&q=85&fm=jpg&crop=entropy&cs=srgb&dl=mink-mingle-233730.jpg&s=64ecaf79124a988b9c816d74e0bb57fb");
+  background-size:cover;
+ padding-top:5%;
+  /*padding-bottom:5%;*/
+}
+.footer{
+  background-color:black;
+  
+}
+p{
+  font-size:2.0em;
+  color:white;
+}
+.paddingBTN{
+  width:200px;
+  margin-bottom:25px;
+}
+.footer p {
+  font-size:15px;
+}
+.me{
+  height:400px;
+  border-radius:50%;
+  
+}
